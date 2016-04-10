@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Miles Evan Rosenberg]]></title>
+        <description><![CDATA[Miles Evan Rosenberg]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 20:04:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Here is a list of my strongest interests:</p>]]></description>
+            <link>undefinedchrome-extension-sync-issues--cmon-google-i-know-you/index.html</link>
+            <guid isPermaLink="false">9734cb4d-ed70-41be-814a-a4e14e1a81e2</guid>
+            <pubDate>Sun, 10 Apr 2016 20:04:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
